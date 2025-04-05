@@ -1,1 +1,1 @@
-print("kir")
+print("kos")
